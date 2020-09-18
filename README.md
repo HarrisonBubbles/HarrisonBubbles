@@ -1,5 +1,5 @@
 <a href="https://github.com/HarrisonBubbles/HarrisonBubbles/Assets">
-    <img width="50%" src="https://github.com/HarrisonBubbles/HarrisonBubbles/Assets/vaporwave.gif">
+    <img width="100%" src="https://github.com/HarrisonBubbles/HarrisonBubbles/tree/master/Assets/vaporwave.gif">
 </a>
 
 ### Hello World!
