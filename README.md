@@ -8,3 +8,6 @@
 - 🌱 I’m currently learning about various Linux distros 🐧
 - 📫 How to reach me: harris@bubalo.us or HarrisBubalo@protonmail.com ⚛️
 - ⚡ Fun fact: I love listening to music and playing the guitar! 🎸
+
+[![Spotify](https://harrisonbubbles.vercel.app/api/spotify)](https://open.spotify.com/user/kingbro113)
+
