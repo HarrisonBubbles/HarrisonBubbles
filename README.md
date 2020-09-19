@@ -9,5 +9,5 @@
 - 📫 How to reach me: harris@bubalo.us or HarrisBubalo@protonmail.com ⚛️
 - ⚡ Fun fact: I love listening to music and playing the guitar! 🎸
 
-[<img src="https://novatorem-henna.vercel.app/api/spotify-playing" alt="Harris Spotify Playing" width="350" />](https://open.spotify.com/user/kingbro113?si=uBNYa9KJR-mv5XuD9nU3QQ)
-
+<!--[<img src="https://novatorem-henna.vercel.app/api/spotify-playing" alt="Harris Spotify Playing" width="350" />](https://open.spotify.com/user/kingbro113?si=uBNYa9KJR-mv5XuD9nU3QQ)
+-->
