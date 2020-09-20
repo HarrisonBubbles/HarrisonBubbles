@@ -11,11 +11,12 @@
 
 ## Languages and Tools I Use
 
-<img align="left" alt="Python" width="22px" href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="Visual Studio" width="22px" href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
-<img align="left" alt="Visual Studio Code" width="22px" href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img align="left" alt="GitHub" width="22px" href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img align="left" alt="LaTeX" width="22px" href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />
+<a style="pointer-events: none; cursor: default;"><img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></a>
+<a style="pointer-events: none; cursor: default;"><img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" /></a>
+<a style="pointer-events: none; cursor: default;"><img align="left" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" /></a>
+<a style="pointer-events: none; cursor: default;"><img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<a style="pointer-events: none; cursor: default;"><img align="left" alt="LaTeX" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" /></a>
+
 
 <!--[<img src="https://novatorem-henna.vercel.app/api/spotify-playing" alt="Harris Spotify Playing" width="350" />](https://open.spotify.com/user/kingbro113?si=uBNYa9KJR-mv5XuD9nU3QQ)
 -->
