@@ -11,10 +11,10 @@
 
 ## Languages and Tools I Use
 
-[<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/python.svg" />]
-[<img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/visual-studio-code.svg" />]
-[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/github.svg" />]
-[<img align="left" alt="LaTeX" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/latex.svg" />]
+[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />]
+[<img align="left" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visual-studio-code.svg" />]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />]
+[<img align="left" alt="LaTeX" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />]
 
 <!--[<img src="https://novatorem-henna.vercel.app/api/spotify-playing" alt="Harris Spotify Playing" width="350" />](https://open.spotify.com/user/kingbro113?si=uBNYa9KJR-mv5XuD9nU3QQ)
 -->
