@@ -2,7 +2,7 @@
     <img width="100%" src="https://github.com/HarrisonBubbles/HarrisonBubbles/blob/master/Assets/vaporwave2.gif">
 </a>
 
-## Hello World!
+## Hello World, I am Harris!
 
 - 💻 I am a CS and Mathematics major at Northeastern University! 🐺
 - 🌱 I’m currently learning about various Linux distros 🐧
