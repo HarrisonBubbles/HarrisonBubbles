@@ -16,4 +16,5 @@
 <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
 <img align="left" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img align="left" alt="LaTeX" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />
+<img align="left" alt="LaTeX" width="22px" src="https://simpleicons.org/icons/latex.svg" />
+
